@@ -1,0 +1,5 @@
+torch
+diffusers
+customtkinter
+python-dotenv
+Pillow
